@@ -1,0 +1,11 @@
+https://www.outsystems.com/blog/posts/what-is-a-microservice/
+
+https://medium.com/ing-blog/architecture-and-design-unit-testing-using-archunit-f3ba6b5ae03b
+
+https://www.cockroachlabs.com/blog/bose-elastic-cockroach-meetup/
+
+https://www.outsystems.com/events/tech-talks/trending/progressive-web-apps/thank-you/
+
+https://launchdarkly.com/case-studies/ibm/
+https://www.outsystems.com/blog/posts/single-page-application/
+https://www.rundeck.com/ticketmaster
